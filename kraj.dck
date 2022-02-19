@@ -1,0 +1,98 @@
+1 [SLD:249] Sol Ring
+1 [SLD:589] Arcane Signet
+1 [SLD:99] Lightning Greaves
+1 [SLD:606] Swiftfoot Boots
+1 [DRK:102] Fellwar Stone
+1 [PHPR:5] Mana Crypt
+1 [CMR:703] Thought Vessel
+1 [CMR:695] Jeweled Lotus
+1 [V09:10] Sensei's Divining Top
+1 [CMR:710] Reliquary Tower
+1 [SLD:607] Rogue's Passage
+1 [VMA:289] Ancient Tomb
+1 [WC04:gn143] Temple of the False God
+1 [PM20:247p] Field of the Dead
+1 [ZNE:28] Strip Mine
+1 [CMR:704] Command Beacon
+1 [AKR:328] Scavenger Grounds
+1 [TMP:330] Wasteland
+1 [SUM:263] Mana Vault
+1 [CM2:233] Arcane Lighthouse
+1 [ELD:247] Mystic Sanctuary
+1 [CM2:257] Lonely Sandbar
+1 [C18:253] Halimar Depths
+1 [TMP:57] Counterspell
+1 [2XM:339] Cyclonic Rift
+1 [PRM:69943] Rhystic Study
+1 [ICE:87] Mystic Remora
+1 [VMA:58] Brainstorm
+1 [BBD:123] Negate
+1 [SLD:91] Swan Song
+1 [SS1:6] Mystical Tutor
+1 [POR:64] Personal Tutor
+1 [C21:125] Ponder
+1 [C13:28] Arcane Denial
+1 [C20:35] Fierce Guardianship
+1 [MB1:460] Preordain
+1 [CMR:637] Mana Drain
+1 [2XM:51] Force of Will
+1 [C15:94] Fact or Fiction
+1 [PEMN:70s] Mind's Dilation
+1 [2XM:62] Pongify
+1 [GTC:44] Rapid Hybridization
+1 [PWAR:62s] Narset's Reversal
+1 [F12:12] Gitaxian Probe
+1 [SLD:191] Dryad of the Ilysian Grove
+1 [BNG:150] Kiora's Follower
+1 [VMA:321] Tropical Island
+1 [C14:309] Remote Isle
+1 [C14:311] Slippery Karst
+1 [C13:329] Tranquil Thicket
+3 [TMP:336] Island
+3 [CMR:510] Forest
+1 [SLD:132] Breeding Pool
+1 [C21:407] Witch's Clinic
+1 [WC02:shh143] Yavimaya Coast
+1 [DOM:240] Hinterland Harbor
+1 [M20:255] Temple of Mystery
+1 [KHM:251] Barkchannel Pathway
+1 [EXP:25] Misty Rainforest
+1 [EXP:35] Flooded Grove
+1 [C15:296] Novijen, Heart of Progress
+1 [PWAR:248s] Karn's Bastion
+1 [SHM:258] Pili-Pala
+1 [TPR:187] Rampant Growth
+1 [C16:149] Farseek
+1 [CC1:6] Worldly Tutor
+1 [RNA:180] Gyre Engineer
+1 [CMR:448] Murkfiend Liege
+1 [10E:296] Seedborn Muse
+1 [RNA:149] Wilderness Reclamation
+1 [SOK:38] Freed from the Real
+1 [10E:87] Horseshoe Crab
+1 [9ED:60] Archivist
+1 [PM11:165*] Birds of Paradise
+1 [RNA:130] Guardian Project
+1 [GTC:231] Illusionist's Bracers
+1 [ME3:135] Three Visits
+1 [STA:124] Growth Spiral
+1 [C20:181] Krosan Grip
+1 [PXLN:59s] Herald of Secret Streams
+1 [DIS:23] Cytoplast Manipulator
+1 [CMR:89] Sakashima of a Thousand Faces
+1 [SHM:42] Knacksaw Clique
+1 [SHM:43] Leech Bonder
+1 [AFC:161] Heroic Intervention
+1 [MB1:1213] Fog
+1 [M11:218] Triskelion
+1 [USG:233] Argothian Elder
+1 [THB:174] Ilysian Caryatid
+1 [C16:210] Master Biomancer
+1 [C17:80] Arcanis the Omnipotent
+1 [CMR:445] Fathom Mage
+1 [C21:195] Incubation Druid
+1 [PRM:71586] Simic Ascendancy
+1 [C16:247] Chromatic Lantern
+SB: 1 [DIS:110] Experiment Kraj
+LAYOUT MAIN:(1,8)(CMC,false,50)|([VMA:289],[CM2:233],[KHM:251],[SLD:132],[CMR:704],[PM20:247p],[EXP:35],[CMR:510],[CMR:510],[CMR:510],[C18:253],[DOM:240],[TMP:336],[TMP:336],[TMP:336],[CMR:695],[PWAR:248s],[CM2:257],[PHPR:5],[EXP:25],[ELD:247],[C15:296],[CMR:710],[C14:309],[SLD:607],[AKR:328],[C14:311],[ZNE:28],[M20:255],[WC04:gn143],[C13:329],[VMA:321],[TMP:330],[C21:407],[WC02:shh143])([PM11:165*],[VMA:58],[MB1:1213],[F12:12],[SUM:263],[ICE:87],[SS1:6],[POR:64],[C21:125],[2XM:62],[MB1:460],[GTC:44],[V09:10],[SLD:249],[SLD:91],[CC1:6])([C13:28],[SLD:589],[TMP:57],[2XM:339],[C16:149],[DRK:102],[STA:124],[AFC:161],[GTC:231],[THB:174],[C21:195],[BNG:150],[SLD:99],[CMR:637],[PWAR:62s],[BBD:123],[SHM:258],[TPR:187],[PRM:71586],[SLD:606],[CMR:703],[ME3:135])([SLD:191],[C20:35],[SOK:38],[RNA:180],[10E:87],[C20:181],[SHM:43],[PRM:69943],[C16:247])([9ED:60],[USG:233],[DIS:23],[C15:94],[CMR:445],[RNA:130],[PXLN:59s],[SHM:42],[C16:210],[CMR:89],[RNA:149])([2XM:51],[CMR:448],[10E:296])([C17:80],[M11:218])([PEMN:70s])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DIS:110])

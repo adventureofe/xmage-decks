@@ -1,0 +1,89 @@
+1 [SLD:249] Sol Ring
+1 [SLD:589] Arcane Signet
+1 [SLD:99] Lightning Greaves
+1 [SLD:606] Swiftfoot Boots
+1 [PG07:11] Mind Stone
+1 [DRK:102] Fellwar Stone
+1 [CMR:703] Thought Vessel
+1 [V09:10] Sensei's Divining Top
+1 [CMR:710] Reliquary Tower
+1 [SLD:607] Rogue's Passage
+1 [WC04:gn143] Temple of the False God
+1 [ZNE:28] Strip Mine
+1 [TD0:A128] Ghost Quarter
+1 [CMR:704] Command Beacon
+1 [AKR:328] Scavenger Grounds
+1 [M21:319] Solemn Simulacrum
+1 [AFC:222] Wayfarer's Bauble
+1 [2XM:359] Expedition Map
+1 [CM2:233] Arcane Lighthouse
+1 [SOK:162] Mikokoro, Center of the Sea
+1 [JVC:24] Counterspell
+1 [CMR:261] Three Visits
+1 [C17:149] Farseek
+1 [CM2:242] Command Tower
+1 [C21:409] Yavimaya Coast
+1 [PDOM:240p] Hinterland Harbor
+1 [PM20:255s] Temple of Mystery
+1 [CMR:354] Rejuvenating Springs
+1 [MH1:249] Waterlogged Grove
+1 [AFC:236] Exotic Orchard
+8 [BBD:254] Forest
+7 [AFR:267] Island
+1 [C13:258] Simic Signet
+1 [MH2:261] Yavimaya, Cradle of Growth
+1 [KTK:269] Forest
+1 [P09:7] Rampant Growth
+1 [SHM:258] Pili-Pala
+1 [2ED:187] Birds of Paradise
+1 [SLD:174] Brainstorm
+1 [C21:125] Ponder
+1 [C20:216] Growth Spiral
+1 [CMR:443] Coiling Oracle
+1 [USG:80] Horseshoe Crab
+1 [C21:226] Plaxcaster Frogling
+1 [DIS:93] Simic Ragworm
+1 [C20:196] Wilderness Reclamation
+1 [10E:296] Seedborn Muse
+1 [10E:66] Arcanis the Omnipotent
+1 [C16:210] Master Biomancer
+1 [C16:198] Fathom Mage
+1 [MM2:68] Vigean Graftmage
+1 [FMB1:94] Gilder Bairn
+1 [PRNA:131p] Incubation Druid
+1 [GK2:112] Gyre Sage
+1 [PRNA:207] Simic Ascendancy
+1 [CM2:137] Forgotten Ancient
+1 [SLD:246] Cultivate
+1 [RNA:180] Gyre Engineer
+1 [CMR:448] Murkfiend Liege
+1 [PRM:51926] Kiora's Follower
+1 [CN2:174] Beast Within
+1 [CM2:138] Hardened Scales
+1 [PXLN:59s] Herald of Secret Streams
+1 [C20:181] Krosan Grip
+1 [TOR:130] Krosan Restorer
+1 [BRB:6] Argothian Elder
+1 [V16:9] Momir Vig, Simic Visionary
+1 [M11:218] Triskelion
+1 [MRD:138] Viridian Joiner
+1 [THB:174] Ilysian Caryatid
+1 [9ED:60] Archivist
+1 [DOM:168] Llanowar Elves
+1 [CMR:228] Fyndhorn Elves
+1 [C21:126] Rapid Hybridization
+1 [PRM:36310] Voidslime
+1 [PLC:44] Pongify
+1 [CNS:171] Nature's Claim
+1 [C18:150] Harrow
+1 [CMR:681] Kodama's Reach
+1 [C21:118] Curse of the Swine
+1 [MB1:1504] Urban Evolution
+1 [C13:148] Harmonize
+1 [PRNA:130p] Guardian Project
+1 [C16:247] Chromatic Lantern
+1 [GTC:231] Illusionist's Bracers
+1 [TMP:322] Reflecting Pool
+SB: 1 [DIS:110] Experiment Kraj
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([M21:319],[SHM:258],[M11:218])([SLD:589],[2XM:359],[DRK:102],[SLD:99],[PG07:11],[V09:10],[SLD:249],[SLD:606],[CMR:703],[AFC:222],[C13:258],[C16:247],[GTC:231])([2ED:187],[CMR:443],[USG:80],[C21:226],[DIS:93],[10E:296],[10E:66],[C16:210],[C16:198],[MM2:68],[FMB1:94],[PRNA:131p],[GK2:112],[CM2:137],[RNA:180],[CMR:448],[PRM:51926],[PXLN:59s],[TOR:130],[BRB:6],[V16:9],[MRD:138],[THB:174],[9ED:60],[DOM:168],[CMR:228])([C20:196],[PRNA:207],[CM2:138],[PRNA:130p])([JVC:24],[SLD:174],[C20:216],[CN2:174],[C20:181],[C21:126],[PRM:36310],[PLC:44],[CNS:171],[C18:150])([CM2:233],[CMR:704],[CM2:242],[AFC:236],[TD0:A128],[PDOM:240p],[SOK:162],[CMR:354],[CMR:710],[SLD:607],[AKR:328],[ZNE:28],[PM20:255s],[WC04:gn143],[MH1:249],[C21:409],[BBD:254],[BBD:254],[BBD:254],[BBD:254],[BBD:254],[BBD:254],[BBD:254],[BBD:254],[AFR:267],[AFR:267],[AFR:267],[AFR:267],[AFR:267],[AFR:267],[AFR:267],[MH2:261],[KTK:269],[TMP:322])([C17:149],[CMR:261],[P09:7],[C21:125],[SLD:246],[CMR:681],[C21:118],[MB1:1504],[C13:148])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DIS:110])

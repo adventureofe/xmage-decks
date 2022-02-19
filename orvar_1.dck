@@ -1,0 +1,88 @@
+1 [SLD:249] Sol Ring
+1 [SLD:589] Arcane Signet
+1 [SLD:606] Swiftfoot Boots
+1 [PG07:11] Mind Stone
+1 [DRK:102] Fellwar Stone
+1 [PHPR:5] Mana Crypt
+1 [CMR:703] Thought Vessel
+1 [CMR:695] Jeweled Lotus
+1 [V09:10] Sensei's Divining Top
+1 [CMR:710] Reliquary Tower
+1 [SLD:607] Rogue's Passage
+1 [VMA:289] Ancient Tomb
+1 [WC04:gn143] Temple of the False God
+1 [ZNE:28] Strip Mine
+1 [TD0:A128] Ghost Quarter
+1 [CMR:704] Command Beacon
+1 [AKR:328] Scavenger Grounds
+1 [TMP:330] Wasteland
+1 [M21:319] Solemn Simulacrum
+1 [AFC:222] Wayfarer's Bauble
+1 [SUM:263] Mana Vault
+1 [2XM:359] Expedition Map
+1 [CM2:233] Arcane Lighthouse
+1 [SOK:162] Mikokoro, Center of the Sea
+1 [ELD:247] Mystic Sanctuary
+1 [ELD:390] Castle Vantress
+1 [CM2:257] Lonely Sandbar
+1 [MMA:219] Academy Ruins
+1 [C18:253] Halimar Depths
+1 [HOU:173] Desert of the Mindful
+1 [C14:309] Remote Isle
+1 [7ED:316] Sky Diamond
+1 [TMP:57] Counterspell
+1 [2XM:339] Cyclonic Rift
+1 [PRM:69943] Rhystic Study
+1 [ICE:87] Mystic Remora
+1 [VMA:58] Brainstorm
+1 [BBD:123] Negate
+1 [SLD:91] Swan Song
+1 [SS1:6] Mystical Tutor
+1 [POR:64] Personal Tutor
+1 [C21:125] Ponder
+1 [C13:28] Arcane Denial
+1 [C20:35] Fierce Guardianship
+1 [MB1:460] Preordain
+1 [CMR:637] Mana Drain
+1 [2XM:51] Force of Will
+1 [C15:94] Fact or Fiction
+1 [PEMN:70s] Mind's Dilation
+1 [2XM:62] Pongify
+1 [GTC:44] Rapid Hybridization
+1 [PWAR:62s] Narset's Reversal
+1 [MB1:451] Opt
+1 [VMA:68] Flusterstorm
+1 [F12:12] Gitaxian Probe
+1 [PAER:31p] Disallow
+15 [ICE:371] Snow-Covered Island
+1 [STH:38] Mind Games
+1 [CSP:49] Thermal Flux
+1 [MRD:34] Dream's Grip
+1 [DGM:12] Hidden Strings
+1 [CMR:89] Sakashima of a Thousand Faces
+1 [LRW:52] Aquitect's Will
+1 [8ED:111] Twiddle
+1 [UMA:45] Archaeomancer
+1 [TSP:53] Clockspinning
+1 [EMA:64] Peregrine Drake
+1 [CMR:639] Mulldrifter
+1 [SHM:31] Cerulean Wisps
+1 [STX:295] Archmage Emeritus
+1 [VMA:73] High Tide
+1 [TPR:66] Shadow Rift
+1 [STH:35] Leap
+1 [TMP:306] Sapphire Medallion
+1 [APC:30] Shimmering Mirage
+1 [PWAR:68p] Spark Double
+1 [BBD:41] Spellseeker
+1 [THB:80] Wavebreak Hippocamp
+1 [SUM:53] Copy Artifact
+1 [TD0:A21] Copy Enchantment
+1 [AER:28] Baral, Chief of Compliance
+1 [TD2:8] Silver Myr
+1 [SOM:50] Twisted Image
+1 [TPR:76] Twitch
+1 [STX:54] Solve the Equation
+SB: 1 [KHM:70] Orvar, the All-Form
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([TD2:8],[M21:319])([SLD:589],[2XM:359],[DRK:102],[CMR:695],[PHPR:5],[SUM:263],[PG07:11],[TMP:306],[V09:10],[7ED:316],[SLD:249],[SLD:606],[CMR:703],[AFC:222])([UMA:45],[STX:295],[AER:28],[CMR:639],[EMA:64],[CMR:89],[PWAR:68p],[BBD:41])([THB:80])([SUM:53],[TD0:A21],[PEMN:70s],[ICE:87],[PRM:69943])([C13:28],[VMA:58],[SHM:31],[TSP:53],[TMP:57],[2XM:339],[PAER:31p],[MRD:34],[C15:94],[C20:35],[VMA:68],[2XM:51],[VMA:73],[STH:35],[CMR:637],[STH:38],[SS1:6],[PWAR:62s],[BBD:123],[MB1:451],[2XM:62],[GTC:44],[TPR:66],[APC:30],[SLD:91],[CSP:49],[8ED:111],[SOM:50],[TPR:76])([MMA:219],[VMA:289],[CM2:233],[ELD:390],[CMR:704],[HOU:173],[TD0:A128],[C18:253],[CM2:257],[SOK:162],[ELD:247],[CMR:710],[C14:309],[SLD:607],[AKR:328],[ICE:371],[ICE:371],[ICE:371],[ICE:371],[ICE:371],[ICE:371],[ICE:371],[ICE:371],[ICE:371],[ICE:371],[ICE:371],[ICE:371],[ICE:371],[ICE:371],[ZNE:28],[WC04:gn143],[TMP:330],[ICE:371])([F12:12],[DGM:12],[POR:64],[C21:125],[MB1:460],[STX:54])([LRW:52])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([KHM:70])

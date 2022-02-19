@@ -1,0 +1,61 @@
+1 [SLD:249] Sol Ring
+1 [SLD:589] Arcane Signet
+1 [SLD:99] Lightning Greaves
+1 [SLD:606] Swiftfoot Boots
+1 [PG07:11] Mind Stone
+1 [DRK:102] Fellwar Stone
+1 [PHPR:5] Mana Crypt
+1 [CMR:703] Thought Vessel
+1 [CMR:695] Jeweled Lotus
+1 [V09:10] Sensei's Divining Top
+1 [CMR:710] Reliquary Tower
+1 [SLD:607] Rogue's Passage
+1 [VMA:289] Ancient Tomb
+1 [WC04:gn143] Temple of the False God
+1 [PM20:247p] Field of the Dead
+1 [ZNE:28] Strip Mine
+1 [TD0:A128] Ghost Quarter
+1 [CMR:704] Command Beacon
+1 [AKR:328] Scavenger Grounds
+1 [TMP:330] Wasteland
+1 [M21:319] Solemn Simulacrum
+1 [AFC:222] Wayfarer's Bauble
+1 [SUM:263] Mana Vault
+1 [2XM:359] Expedition Map
+1 [WWK:132] Bojuka Bog
+1 [CM2:233] Arcane Lighthouse
+1 [SOK:162] Mikokoro, Center of the Sea
+1 [ELD:247] Mystic Sanctuary
+1 [ELD:390] Castle Vantress
+1 [CM2:257] Lonely Sandbar
+1 [MMA:219] Academy Ruins
+1 [C18:253] Halimar Depths
+1 [HOU:173] Desert of the Mindful
+1 [C14:309] Remote Isle
+1 [7ED:316] Sky Diamond
+1 [TMP:57] Counterspell
+1 [2XM:339] Cyclonic Rift
+1 [PRM:69943] Rhystic Study
+1 [ICE:87] Mystic Remora
+1 [VMA:58] Brainstorm
+1 [BBD:123] Negate
+1 [SLD:91] Swan Song
+1 [SS1:6] Mystical Tutor
+1 [POR:64] Personal Tutor
+1 [C21:125] Ponder
+1 [C13:28] Arcane Denial
+1 [C20:35] Fierce Guardianship
+1 [MB1:460] Preordain
+1 [CMR:637] Mana Drain
+1 [2XM:51] Force of Will
+1 [C15:94] Fact or Fiction
+1 [PEMN:70s] Mind's Dilation
+1 [2XM:62] Pongify
+1 [GTC:44] Rapid Hybridization
+1 [PWAR:62s] Narset's Reversal
+1 [MB1:451] Opt
+1 [VMA:68] Flusterstorm
+1 [F12:12] Gitaxian Probe
+1 [PAER:31p] Disallow
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([M21:319])([SLD:589],[DRK:102],[CMR:695],[SLD:99],[PHPR:5],[PG07:11],[V09:10],[SLD:249],[SLD:606],[CMR:703],[AFC:222],[SUM:263],[2XM:359],[7ED:316])([PRM:69943],[ICE:87],[PEMN:70s])([TMP:57],[2XM:339],[VMA:58],[BBD:123],[SLD:91],[SS1:6],[C13:28],[C20:35],[CMR:637],[2XM:51],[C15:94],[2XM:62],[GTC:44],[PWAR:62s],[MB1:451],[VMA:68],[PAER:31p])([VMA:289],[CMR:704],[PM20:247p],[TD0:A128],[CMR:710],[SLD:607],[AKR:328],[ZNE:28],[WC04:gn143],[TMP:330],[WWK:132],[CM2:233],[SOK:162],[ELD:247],[ELD:390],[CM2:257],[MMA:219],[C18:253],[HOU:173],[C14:309])([POR:64],[C21:125],[MB1:460],[F12:12])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|
