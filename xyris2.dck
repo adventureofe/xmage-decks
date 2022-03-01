@@ -1,0 +1,102 @@
+1 [SLD:249] Sol Ring
+1 [SLD:589] Arcane Signet
+1 [SLD:99] Lightning Greaves
+1 [SLD:606] Swiftfoot Boots
+1 [DRK:102] Fellwar Stone
+1 [PHPR:5] Mana Crypt
+1 [CMR:695] Jeweled Lotus
+1 [CMR:710] Reliquary Tower
+1 [SLD:607] Rogue's Passage
+1 [VMA:289] Ancient Tomb
+1 [WC04:gn143] Temple of the False God
+1 [PM20:247p] Field of the Dead
+1 [ZNE:28] Strip Mine
+1 [TD0:A128] Ghost Quarter
+1 [CMR:704] Command Beacon
+1 [AKR:328] Scavenger Grounds
+1 [SUM:263] Mana Vault
+1 [CM2:233] Arcane Lighthouse
+1 [SOK:162] Mikokoro, Center of the Sea
+1 [SLD:132] Breeding Pool
+1 [IKO:310] Ketria Triome
+1 [SLU:5] Misty Rainforest
+1 [VMA:321] Tropical Island
+1 [SLD:129] Steam Vents
+1 [ZEN:223] Scalding Tarn
+1 [VMA:324] Volcanic Island
+1 [GTC:247] Stomping Ground
+1 [ME4:253] Taiga
+1 [G09:10] Wooded Foothills
+1 [AFC:236] Exotic Orchard
+1 [SHM:278*] Reflecting Pool
+1 [C20:310] Shivan Reef
+1 [ARN:71] City of Brass
+1 [PTC:gb356] Karplusan Forest
+1 [MB1:1669] Frontier Bivouac
+1 [RTR:257] Island
+1 [PRM:259] Forest
+1 [RTR:269] Mountain
+1 [C16:149] Farseek
+1 [CMR:261] Three Visits
+1 [SLD:177] Howling Mine
+1 [CN2:113] Kami of the Crescent Moon
+1 [VIS:141] Anvil of Bogardan
+1 [ELD:343] Folio of Fancies
+1 [C16:277] Temple Bell
+1 [9ED:312] Teferi's Puzzle Box
+1 [C16:104] Windfall
+1 [VMA:192] Wheel of Fortune
+1 [F05:11] Counterspell
+1 [CMR:80] Mana Drain
+1 [MB1:1363] Triumph of the Hordes
+1 [MM3:122] Craterhoof Behemoth
+1 [C16:142] Beastmaster Ascension
+1 [C16:143] Burgeoning
+1 [SLD:313] Impact Tremors
+1 [ME1:42] Mystic Remora
+1 [MB1:468] Rhystic Study
+1 [MM3:35] Cyclonic Rift
+1 [ISD:199] Parallel Lives
+1 [MB1:288] Arcane Denial
+1 [2XM:340] Force of Will
+1 [C20:35] Fierce Guardianship
+1 [PRM:62411] Wheel and Deal
+1 [E01:29] Vision Skeins
+1 [CNS:95] Dream Fracture
+1 [THS:135] Purphoros, God of the Forge
+1 [C15:95] Jace's Archivist
+1 [PRM:52326] Dictate of Kruphix
+1 [SOI:244] Fevered Visions
+1 [C16:163] Rites of Flourishing
+1 [CMD:260] Skullclamp
+1 [CMR:432] Rampant Growth
+1 [C16:122] Chaos Warp
+1 [C21:336] Adrix and Nev, Twincasters
+1 [MB1:1322] Sakura-Tribe Elder
+1 [RAV:153] Birds of Paradise
+1 [C19:24] Dockside Extortionist
+1 [CMR:688] Coiling Oracle
+1 [M21:188] Heroic Intervention
+1 [SLD:91] Swan Song
+1 [STA:124] Growth Spiral
+1 [CN2:117] Negate
+1 [MB1:1584] Font of Mythos
+1 [AFR:81] Wizard Class
+1 [VMA:235] Sylvan Library
+1 [JGP:3] Gaea's Cradle
+1 [MH2:480] Yavimaya, Cradle of Growth
+1 [C14:172] Blasphemous Act
+1 [MB1:1526] Manamorphose
+1 [2ED:211] Llanowar Elves
+1 [2XM:164] Doubling Season
+1 [A25:68] Pact of Negation
+1 [EMA:62] Mystical Tutor
+1 [C13:53] Propaganda
+1 [C15:175] Bane of Progress
+1 [M11:173] Fog
+1 [C13:44] Fog Bank
+1 [C13:110] Goblin Bombardment
+1 [TPR:201] Tranquility
+SB: 1 [C20:18] Xyris, the Writhing Storm
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([VIS:141],[SLD:589],[DRK:102],[ELD:343],[MB1:1584],[SLD:177],[CMR:695],[SLD:99],[PHPR:5],[SUM:263],[CMD:260],[SLD:249],[SLD:606],[9ED:312],[C16:277])([C21:336],[C15:175],[RAV:153],[CMR:688],[MM3:122],[C19:24],[C13:44],[C15:95],[CN2:113],[2ED:211],[MB1:1322])([THS:135])([C16:142],[C16:143],[PRM:52326],[2XM:164],[SOI:244],[C13:110],[SLD:313],[ME1:42],[ISD:199],[C13:53],[MB1:468],[C16:163],[VMA:235],[AFR:81])([MB1:288],[C16:122],[F05:11],[MM3:35],[CNS:95],[C20:35],[M11:173],[2XM:340],[STA:124],[M21:188],[CMR:80],[MB1:1526],[EMA:62],[CN2:117],[A25:68],[SLD:91],[E01:29],[PRM:62411])([VMA:289],[CM2:233],[SLD:132],[ARN:71],[CMR:704],[AFC:236],[PM20:247p],[PRM:259],[MB1:1669],[JGP:3],[TD0:A128],[RTR:257],[PTC:gb356],[IKO:310],[SOK:162],[SLU:5],[RTR:269],[SHM:278*],[CMR:710],[SLD:607],[ZEN:223],[AKR:328],[C20:310],[SLD:129],[GTC:247],[ZNE:28],[ME4:253],[WC04:gn143],[VMA:321],[VMA:324],[G09:10],[MH2:480])([C14:172],[C16:149],[CMR:432],[CMR:261],[MB1:1363],[VMA:192],[C16:104],[TPR:201])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C20:18])
