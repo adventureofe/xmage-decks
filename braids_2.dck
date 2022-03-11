@@ -14,8 +14,6 @@
 1 [AKR:328] Scavenger Grounds
 1 [TMP:330] Wasteland
 1 [M21:319] Solemn Simulacrum
-1 [SUM:263] Mana Vault
-1 [2XM:359] Expedition Map
 1 [CM2:233] Arcane Lighthouse
 1 [ELD:247] Mystic Sanctuary
 1 [ELD:390] Castle Vantress
@@ -25,14 +23,10 @@
 1 [HOU:173] Desert of the Mindful
 1 [C14:309] Remote Isle
 1 [7ED:316] Sky Diamond
-1 [TMP:57] Counterspell
 1 [2XM:339] Cyclonic Rift
 1 [PRM:69943] Rhystic Study
 1 [ICE:87] Mystic Remora
-1 [SS1:6] Mystical Tutor
-1 [POR:64] Personal Tutor
 1 [C21:125] Ponder
-1 [C13:28] Arcane Denial
 1 [C20:35] Fierce Guardianship
 1 [MB1:460] Preordain
 1 [CMR:637] Mana Drain
@@ -47,7 +41,6 @@
 1 [ROE:12] Ulamog, the Infinite Gyre
 1 [UMA:6] Kozilek, Butcher of Truth
 1 [NPH:37] Jin-Gitaxias, Core Augur
-1 [DOM:49] Curator's Ward
 1 [PRIX:45p] Nezahal, Primal Tide
 1 [10E:120] Twincast
 1 [USG:76] Gilded Drake
@@ -66,7 +59,6 @@
 1 [C21:118] Curse of the Swine
 1 [C19:225] Thran Dynamo
 1 [SLD:165] Consecrated Sphinx
-1 [PRM:52324] Scourge of Fleets
 1 [10E:66] Arcanis the Omnipotent
 1 [BBD:134] Tidespout Tyrant
 1 [SLD:155] Roil Elemental
@@ -75,16 +67,24 @@
 1 [PCA:24] Sakashima's Student
 1 [THB:68] Stern Dismissal
 1 [ISD:75] Silent Departure
-1 [E02:13] Unsummon
 1 [MB1:537] Vapor Snag
-1 [MB1:1570] Crystal Shard
-1 [C19:87] Ixidron
 1 [CMR:346] Thought Vessel
 1 [2XM:248] Darksteel Forge
 1 [CMR:396] Fact or Fiction
 1 [C19:214] Hedron Archive
-1 [CMR:689] Arcane Signet
 1 [WAR:245] Emergence Zone
+1 [PRIX:180p] The Immortal Sun
+1 [PAER:31p] Disallow
+1 [RAV:42] Copy Enchantment
+1 [PRM:65650] Copy Artifact
+1 [NPH:162] Torpor Orb
+1 [KHM:247] Weathered Runestone
+1 [CMR:697] Phyrexian Triniform
+1 [CMR:99] Sphinx of the Second Sun
+1 [10E:101*] Robe of Mirrors
+1 [PM20:43s] Agent of Treachery
+1 [SLD:57] Darksteel Colossus
+1 [CMR:393] Arcane Denial
 SB: 1 [PLC:36] Braids, Conjurer Adept
-LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([MBS:99],[M21:319])([CMR:689],[CM2:178],[MB1:1570],[2XM:248],[2XM:359],[C19:214],[CMR:695],[MBS:111],[SLD:99],[PHPR:5],[SUM:263],[PG07:11],[V09:10],[7ED:316],[SLD:249],[SLD:606],[CMR:346],[C19:225],[CNS:206])([10E:66],[SLD:165],[FMB1:22],[USG:76],[ROE:7],[C19:87],[NPH:37],[UMA:6],[PRIX:45p],[AFC:89],[SLD:155],[PCA:24],[PRM:52324],[TSP:83],[BBD:134],[ROE:12])([EMA:42],[DOM:49],[PM20:64s],[PEMN:70s],[ICE:87],[MB1:462],[PRM:69943])([M15:44],[C13:28],[TMP:57],[2XM:339],[CMR:396],[C20:35],[2XM:51],[CMR:637],[SS1:6],[PWAR:62s],[2XM:62],[GTC:44],[FRF:46],[THB:68],[10E:120],[E02:13],[MB1:537])([MMA:219],[VMA:289],[CM2:233],[ELD:390],[CMR:704],[HOU:173],[TD0:A128],[C18:253],[CM2:257],[DRK:117],[ELD:247],[CMR:710],[C14:309],[JMP:494],[AKR:328],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[ZNE:28],[WC04:gn143],[TMP:330],[WTH:167],[WAR:245])([C21:118],[POR:64],[C21:125],[MB1:460],[ISD:75])
+LAYOUT MAIN:(1,13)(CMC,false,50)|([MMA:219],[VMA:289],[CM2:233],[ELD:390],[CMR:704],[HOU:173],[WAR:245],[TD0:A128],[C18:253],[CMR:695],[CM2:257],[PHPR:5],[DRK:117],[ELD:247],[CMR:710],[C14:309],[JMP:494],[AKR:328],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[ZNE:28],[WC04:gn143],[TMP:330],[WTH:167])([ICE:87],[C21:125],[2XM:62],[MB1:460],[GTC:44],[10E:101*],[V09:10],[ISD:75],[SLD:249],[THB:68],[MB1:537])([PRM:65650],[C21:118],[2XM:339],[USG:76],[SLD:99],[CMR:637],[PG07:11],[PWAR:62s],[AFC:89],[FRF:46],[7ED:316],[SLD:606],[CMR:346],[NPH:162],[10E:120],[KHM:247],[CMR:393])([RAV:42],[PAER:31p],[FMB1:22],[C20:35],[MB1:462],[PRM:69943])([EMA:42],[CMR:396],[C19:214],[PM20:64s],[PCA:24],[M21:319],[C19:225],[CNS:206])([M15:44],[2XM:51],[TSP:83])([10E:66],[CM2:178],[SLD:165],[MBS:111],[SLD:155],[PRIX:180p])([PM20:43s],[PEMN:70s],[PRIX:45p])([CMR:99],[BBD:134])([2XM:248],[CMR:697])([NPH:37],[UMA:6])([SLD:57],[ROE:12])([MBS:99],[ROE:7])
 LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PLC:36])
