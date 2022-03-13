@@ -19,17 +19,14 @@
 1 [DPA:79] Rampant Growth
 1 [AFC:138] Shiny Impetus
 1 [MB1:1005] Madcap Skills
-1 [G10:7] Wheel of Fortune
 1 [DOM:124] Frenzied Rage
 1 [PCA:76] Rancor
-1 [C17:25] Disrupt Decorum
 1 [SHM:215] Runes of the Deus
 1 [MB1:949] Giant Spectacle
 1 [PCA:78] Snake Umbra
 1 [JMP:28] Allosaurus Shepherd
 1 [MB1:1176] Cultivate
 1 [CMD:163] Kodama's Reach
-1 [C18:120] Blasphemous Act
 1 [CMD:178] Vow of Wildness
 1 [V13:20] Kessig Wolf Run
 1 [C13:289] Forgotten Cave
@@ -49,16 +46,13 @@
 1 [WWK:98] Canopy Cover
 1 [CMR:209] Vow of Lightning
 1 [LEB:230] Wild Growth
-1 [MB1:896] Curse of Opulence
 1 [IKO:364] Colossification
 1 [CMR:434] Reclamation Sage
-1 [C13:153] Krosan Grip
 1 [MB1:1275] Nature's Claim
 1 [A25:133] Goblin War Drums
 1 [ICE:193] Imposing Visage
 1 [CMA:107] Eternal Witness
 1 [PTHB:198s] Setessan Champion
-1 [CM2:90] Curse of the Nightly Hunt
 1 [PC2:58] Boar Umbra
 1 [GTC:114] Alpha Authority
 1 [2ED:211] Llanowar Elves
@@ -67,7 +61,6 @@
 1 [UMA:184] Spider Umbra
 1 [ONS:211] Grand Melee
 1 [EMA:187] Sylvan Library
-1 [ROE:177] Bear Umbra
 1 [EMA:158] Argothian Enchantress
 1 [C18:151] Herald of the Pantheon
 1 [LEA:169] Red Elemental Blast
@@ -84,10 +77,17 @@
 1 [USG:255] Gaea's Embrace
 2 [HOU:189] Forest
 1 [C21:192] Hornet Nest
-1 [AFC:218] Sword of the Animist
 1 [C20:178] Hunter's Insight
 1 [BNG:124] Hunter's Prowess
 1 [ELD:172] Return of the Wildspeaker
+1 [THB:352] Arasta of the Endless Web
+1 [FUT:137] Rites of Flourishing
+1 [PRM:62507] Burgeoning
+1 [ELD:332] Tome of Legends
+1 [SUM:185] Wheel of Fortune
+1 [CMR:668] Jeska's Will
+1 [MIR:240] Seedling Charm
+1 [DGM:44] Mending Touch
 SB: 1 [C19:50] Tahngarth, First Mate
-LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([CMR:695],[PHPR:5],[SLD:249],[AFC:218],[PRIX:180s])([JMP:28],[EMA:158],[SLD:92],[CMA:107],[CMR:228],[C18:151],[C21:192],[2ED:211],[CMR:434],[C15:200],[PTHB:198s],[C20:66])([GTC:114],[ROE:177],[PC2:58],[WWK:98],[SLD:279],[M19:173],[IKO:364],[MB1:896],[CM2:90],[2XM:167],[PCA:92],[DOM:124],[USG:255],[MB1:949],[A25:133],[ONS:211],[ICE:193],[MB1:1005],[J19:1],[PCA:76],[SHM:215],[AFC:138],[PCA:78],[UMA:184],[EMA:187],[CMR:209],[CMD:178],[LEB:230])([AFC:152],[MB1:885],[M11:173],[C20:178],[C13:153],[MB1:1275],[LEA:169],[ELD:172])([VMA:289],[CM2:233],[IKO:245],[CMR:704],[CMA:245],[RAV:303],[RAV:303],[RAV:303],[RAV:303],[BBD:254],[BBD:254],[HOU:189],[HOU:189],[C13:289],[AFC:240],[V13:20],[SOK:162],[RAV:302],[RAV:302],[RAV:302],[RAV:302],[RAV:302],[CMR:710],[SLD:607],[M10:227],[AKR:328],[AKH:248],[SLD:126],[ZNE:28],[2ED:283],[WC04:gn143],[C14:316],[TMP:330],[MH2:261])([CMR:186])([C18:120],[AKH:123],[MB1:1176],[C17:25],[PHOU:97s],[BNG:124],[CMD:163],[DPA:79],[AKR:174],[AFC:148],[G10:7])
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([CMR:695],[PHPR:5],[SLD:249],[PRIX:180s],[ELD:332])([JMP:28],[EMA:158],[SLD:92],[CMA:107],[CMR:228],[C18:151],[C21:192],[2ED:211],[CMR:434],[C15:200],[PTHB:198s],[C20:66])([THB:352])([GTC:114],[PC2:58],[PRM:62507],[WWK:98],[SLD:279],[M19:173],[IKO:364],[2XM:167],[PCA:92],[DOM:124],[USG:255],[MB1:949],[A25:133],[ONS:211],[ICE:193],[MB1:1005],[J19:1],[PCA:76],[FUT:137],[SHM:215],[AFC:138],[PCA:78],[UMA:184],[EMA:187],[CMR:209],[CMD:178],[LEB:230])([AFC:152],[MB1:885],[M11:173],[C20:178],[DGM:44],[MB1:1275],[LEA:169],[ELD:172],[MIR:240])([VMA:289],[CM2:233],[IKO:245],[CMR:704],[CMA:245],[RAV:303],[RAV:303],[RAV:303],[RAV:303],[BBD:254],[BBD:254],[HOU:189],[HOU:189],[C13:289],[AFC:240],[V13:20],[SOK:162],[RAV:302],[RAV:302],[RAV:302],[RAV:302],[RAV:302],[CMR:710],[SLD:607],[M10:227],[AKR:328],[AKH:248],[SLD:126],[ZNE:28],[2ED:283],[WC04:gn143],[C14:316],[TMP:330],[MH2:261])([CMR:186])([AKH:123],[MB1:1176],[PHOU:97s],[BNG:124],[CMR:668],[CMD:163],[DPA:79],[AKR:174],[AFC:148],[SUM:185])
 LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C19:50])
