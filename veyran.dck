@@ -1,0 +1,95 @@
+1 [SLD:249] Sol Ring
+1 [SLD:589] Arcane Signet
+1 [SLD:99] Lightning Greaves
+1 [SLD:606] Swiftfoot Boots
+1 [PG07:11] Mind Stone
+1 [DRK:102] Fellwar Stone
+1 [PHPR:5] Mana Crypt
+1 [CMR:703] Thought Vessel
+1 [CMR:695] Jeweled Lotus
+1 [V09:10] Sensei's Divining Top
+1 [CMR:710] Reliquary Tower
+1 [SLD:607] Rogue's Passage
+1 [VMA:289] Ancient Tomb
+1 [WC04:gn143] Temple of the False God
+1 [PM20:247p] Field of the Dead
+1 [ZNE:28] Strip Mine
+1 [TD0:A128] Ghost Quarter
+1 [CMR:704] Command Beacon
+1 [AKR:328] Scavenger Grounds
+1 [TMP:330] Wasteland
+1 [M21:319] Solemn Simulacrum
+1 [AFC:222] Wayfarer's Bauble
+1 [SUM:263] Mana Vault
+1 [2XM:359] Expedition Map
+1 [CM2:233] Arcane Lighthouse
+1 [SOK:162] Mikokoro, Center of the Sea
+1 [GRN:207] Thousand-Year Storm
+1 [CMD:40] Brainstorm
+1 [CMR:84] Preordain
+1 [ELD:247] Mystic Sanctuary
+1 [ELD:242] Castle Vantress
+1 [VMA:297] Forgotten Cave
+1 [C18:264] Lonely Sandbar
+1 [ONS:322] Riptide Laboratory
+1 [HOU:173] Desert of the Mindful
+1 [C20:266] Desert of the Fervent
+1 [2ED:287] Volcanic Island
+1 [ISD:248] Sulfur Falls
+1 [GPT:164] Steam Vents
+1 [SLU:2] Scalding Tarn
+1 [CMR:358] Training Center
+4 [RAV:300] Mountain
+5 [RAV:291] Island
+1 [C19:24] Dockside Extortionist
+1 [MB1:468] Rhystic Study
+1 [ME1:42] Mystic Remora
+1 [EMA:62] Mystical Tutor
+1 [POR:64] Personal Tutor
+1 [RTR:35] Cyclonic Rift
+1 [C15:170] Vandalblast
+1 [PRIX:180s] The Immortal Sun
+1 [AKR:160] Hour of Devastation
+1 [STX:115] Storm-Kiln Artist
+1 [PM19:145] Guttersnipe
+1 [MH1:255] Flusterstorm
+1 [10E:120] Twincast
+1 [M13:145] Reverberate
+1 [MM3:46] Phantasmal Image
+1 [PRM:207] Fork
+1 [C21:125] Ponder
+1 [TSR:353] Young Pyromancer
+1 [C20:125] Talrand, Sky Summoner
+1 [GRN:97] Electrostatic Field
+1 [C21:176] Mana Geyser
+1 [WC04:mb104sb] Seething Song
+1 [C15:29] Mizzix's Mastery
+1 [STX:295] Archmage Emeritus
+1 [SLD:111] Opt
+1 [C19:140] Faithless Looting
+1 [KHM:123] Birgi, God of Storytelling
+1 [C14:172] Blasphemous Act
+1 [UMA:57] Frantic Search
+1 [STX:186] Expressive Iteration
+1 [CMR:668] Jeska's Will
+1 [PWAR:211s] Ral, Storm Conduit
+1 [PGRN:192p] Niv-Mizzet, Parun
+1 [RTR:163] Goblin Electromancer
+1 [AKR:154] Firebrand Archer
+1 [UMA:151] Thermo-Alchemist
+1 [THB:80] Wavebreak Hippocamp
+1 [TSR:79] Pongify
+1 [CM1:1] Chaos Warp
+1 [CMR:413] Expedite
+1 [THB:308] Thassa's Oracle
+1 [PWAR:62s] Narset's Reversal
+1 [MB1:443] Negate
+1 [C15:102] Rapid Hybridization
+1 [C21:400] Reinterpret
+1 [C16:104] Windfall
+1 [THS:234] Island
+1 [PM20:64p] Leyline of Anticipation
+1 [CNS:206] Vedalken Orrery
+SB: 1 [C21:3] Veyran, Voice of Duality
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([M21:319])([SLD:589],[2XM:359],[DRK:102],[CMR:695],[SLD:99],[PHPR:5],[SUM:263],[PG07:11],[V09:10],[SLD:249],[SLD:606],[PRIX:180s],[CMR:703],[AFC:222],[CNS:206])([STX:295],[KHM:123],[C19:24],[GRN:97],[AKR:154],[RTR:163],[PM19:145],[PGRN:192p],[MM3:46],[STX:115],[C20:125],[THB:308],[UMA:151],[TSR:353])([THB:80])([ME1:42],[MB1:468],[GRN:207],[PM20:64p])([CMD:40],[CM1:1],[RTR:35],[CMR:413],[MH1:255],[PRM:207],[UMA:57],[EMA:62],[PWAR:62s],[MB1:443],[SLD:111],[TSR:79],[C15:102],[C21:400],[M13:145],[WC04:mb104sb],[10E:120])([VMA:289],[CM2:233],[ELD:242],[CMR:704],[C20:266],[HOU:173],[PM20:247p],[VMA:297],[TD0:A128],[RAV:291],[RAV:291],[RAV:291],[RAV:291],[RAV:291],[THS:234],[C18:264],[SOK:162],[RAV:300],[RAV:300],[RAV:300],[RAV:300],[ELD:247],[CMR:710],[ONS:322],[SLD:607],[SLU:2],[AKR:328],[GPT:164],[ZNE:28],[ISD:248],[WC04:gn143],[CMR:358],[2ED:287],[TMP:330])([PWAR:211s])([C14:172],[STX:186],[C19:140],[AKR:160],[CMR:668],[C21:176],[C15:29],[POR:64],[C21:125],[CMR:84],[C15:170],[C16:104])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C21:3])
