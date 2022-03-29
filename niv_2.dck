@@ -1,0 +1,95 @@
+1 [ONS:313] Bloodstained Mire
+1 [MH2:436] Arid Mesa
+1 [EXP:32] Cascade Bluffs
+1 [V12:3] Cephalid Coliseum
+1 [WC02:bk327] City of Brass
+1 [CC1:8] Command Tower
+1 [C21:288] Exotic Orchard
+1 [MH1:238] Fiery Islet
+1 [ONS:316] Flooded Strand
+1 [C16:296] Forbidden Orchard
+7 [THB:251] Island
+1 [EXP:42] Mana Confluence
+1 [MH2:438] Misty Rainforest
+2 [THB:253] Mountain
+1 [ONS:321] Polluted Delta
+1 [ZNE:27] Prismatic Vista
+1 [TMP:322] Reflecting Pool
+1 [MH2:439] Scalding Tarn
+1 [DDU:70] Shivan Reef
+1 [PRM:72307] Steam Vents
+1 [ODY:329] Tarnished Citadel
+1 [VMA:324] Volcanic Island
+1 [ONS:330] Wooded Foothills
+1 [TSR:339] Anger of the Gods
+1 [LEB:147] Earthquake
+1 [USG:76] Gilded Drake
+1 [PLC:44] Pongify
+1 [P06:3] Pyroclasm
+1 [PTK:122] Rolling Earthquake
+1 [PM20:227p] Grafdigger's Cage
+1 [F05:11] Counterspell
+1 [C20:50] Deflecting Swat
+1 [C20:35] Fierce Guardianship
+1 [CMD:46] Flusterstorm
+1 [H1R:9] Force of Negation
+1 [ME1:33] Force of Will
+1 [IMA:65] Mana Drain
+1 [NPH:38] Mental Misstep
+1 [ELD:58] Mystical Dispute
+1 [FUT:42] Pact of Negation
+1 [PRM:69981] Pyroblast
+1 [LEB:170] Red Elemental Blast
+1 [BBD:132] Spell Snare
+1 [C16:98] Swan Song
+1 [VMA:58] Brainstorm
+1 [KTK:36] Dig Through Time
+1 [MB1:386] Frantic Search
+1 [PRM:46869] Gitaxian Probe
+1 [2XM:131] Imperial Recruiter
+1 [V13:5] Impulse
+1 [8ED:91] Merchant Scroll
+1 [ICE:87] Mystic Remora
+1 [SLD:245] Ponder
+1 [SLD:186] Preordain
+1 [EXO:29] Curiosity
+1 [TSP:70] Ophidian Eye
+1 [MM3:53] Tandem Lookout
+1 [SLD:201] Arcane Signet
+1 [C19:24] Dockside Extortionist
+1 [PTC:pp319] Fellwar Stone
+1 [SLD:293] Izzet Signet
+1 [CC1:7] Sol Ring
+1 [MH1:231] Talisman of Creativity
+1 [RAV:60] Muddle the Mixture
+1 [9ED:99] Sleight of Hand
+1 [TMP:90] Steal Enchantment
+1 [PRM:47975] Rhystic Study
+1 [EMA:232] Sensei's Divining Top
+1 [STX:286] Wandering Archaic
+1 [C14:269] Sky Diamond
+1 [CMR:703] Thought Vessel
+1 [APC:35] Whirlpool Rider
+1 [MH2:138] Ragavan, Nimble Pilferer
+1 [SOI:63] Forgotten Creation
+1 [PGRN:207s] Thousand-Year Storm
+1 [UMA:128] Faithless Looting
+1 [FMB1:113] Teferi's Puzzle Box
+1 [PAKH:65s] Pull from Tomorrow
+1 [ORI:51] Day's Undoing
+1 [WTH:39] Flux
+1 [C16:104] Windfall
+1 [OVNT:2012] Timetwister
+1 [VMA:192] Wheel of Fortune
+1 [PELD:147p] Torbran, Thane of Red Fell
+1 [CMR:309] Fire Diamond
+1 [PRM:72269] Narset, Parter of Veils
+1 [CMR:488] Reliquary Tower
+1 [CMR:358] Training Center
+1 [PDOM:247p] Sulfur Falls
+1 [UMA:61] Laboratory Maniac
+1 [PM20:64p] Leyline of Anticipation
+1 [MB1:885] Chaos Warp
+SB: 1 [PGRN:192s] Niv-Mizzet, Parun
+LAYOUT MAIN:(1,8)(CMC,false,50)|([MH2:436],[ONS:313],[EXP:32],[V12:3],[WC02:bk327],[CC1:8],[C21:288],[MH1:238],[ONS:316],[C16:296],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[EXP:42],[MH2:438],[THB:253],[THB:253],[FUT:42],[ONS:321],[ZNE:27],[TMP:322],[CMR:488],[MH2:439],[DDU:70],[PRM:72307],[PDOM:247p],[ODY:329],[CMR:358],[VMA:324],[ONS:330])([VMA:58],[EXO:29],[LEB:147],[UMA:128],[CMD:46],[PRM:46869],[PM20:227p],[NPH:38],[ICE:87],[SLD:245],[PLC:44],[SLD:186],[PRM:69981],[MH2:138],[LEB:170],[PTK:122],[EMA:232],[9ED:99],[CC1:7],[BBD:132],[C16:98])([SLD:201],[F05:11],[C19:24],[PTC:pp319],[CMR:309],[USG:76],[V13:5],[SLD:293],[IMA:65],[8ED:91],[RAV:60],[PAKH:65s],[P06:3],[C14:269],[TMP:90],[MH1:231],[CMR:703],[APC:35])([TSR:339],[MB1:885],[ORI:51],[C20:50],[C20:35],[WTH:39],[H1R:9],[MB1:386],[2XM:131],[UMA:61],[ELD:58],[PRM:72269],[TSP:70],[PRM:47975],[MM3:53],[OVNT:2012],[VMA:192],[C16:104])([SOI:63],[PM20:64p],[FMB1:113],[PELD:147p])([ME1:33],[STX:286])([PGRN:207s])([KTK:36])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PGRN:192s])

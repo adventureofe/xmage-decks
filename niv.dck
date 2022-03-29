@@ -1,0 +1,97 @@
+1 [SLD:589] Arcane Signet
+1 [DRK:102] Fellwar Stone
+1 [CMR:703] Thought Vessel
+1 [CMR:695] Jeweled Lotus
+1 [V09:10] Sensei's Divining Top
+1 [CMR:710] Reliquary Tower
+1 [ZNE:28] Strip Mine
+1 [AFC:222] Wayfarer's Bauble
+1 [MB1:340] Curiosity
+1 [TSP:70] Ophidian Eye
+1 [MH2:254] Scalding Tarn
+1 [GRN:257] Steam Vents
+1 [ISD:248] Sulfur Falls
+1 [VMA:324] Volcanic Island
+1 [CMD:269] Command Tower
+1 [C20:310] Shivan Reef
+1 [PM20:253s] Temple of Epiphany
+1 [CMR:358] Training Center
+1 [EXP:32] Cascade Bluffs
+1 [CON:142] Exotic Orchard
+1 [TMP:322] Reflecting Pool
+4 [RAV:293] Island
+3 [RAV:299] Mountain
+1 [MH1:239] Forgotten Cave
+1 [C14:304] Lonely Sandbar
+1 [C14:312] Smoldering Crater
+1 [C20:302] Remote Isle
+1 [C20:267] Desert of the Mindful
+1 [C20:266] Desert of the Fervent
+1 [CMR:80] Mana Drain
+1 [MB1:415] Laboratory Maniac
+1 [C15:263] Psychosis Crawler
+1 [VMA:192] Wheel of Fortune
+1 [BRB:99] Windfall
+1 [DOM:60] Opt
+1 [STA:76] Brainstorm
+1 [P08:6] Ponder
+1 [PWAR:62p] Narset's Reversal
+1 [SLD:508] Narset, Parter of Veils
+1 [MB1:460] Preordain
+1 [USG:76] Gilded Drake
+1 [PRM:47975] Rhystic Study
+1 [ME1:42] Mystic Remora
+1 [C19:24] Dockside Extortionist
+1 [GRN:97] Electrostatic Field
+1 [C17:90] Polymorphist's Jest
+1 [C14:120] Pongify
+1 [C15:102] Rapid Hybridization
+1 [C17:91] Reality Shift
+1 [C21:269] Talisman of Creativity
+1 [C20:35] Fierce Guardianship
+1 [C20:50] Deflecting Swat
+1 [KTK:56] Stubborn Denial
+1 [MM3:35] Cyclonic Rift
+1 [MM3:171] Izzet Charm
+1 [ELD:367] Torbran, Thane of Red Fell
+1 [DTK:65] Negate
+1 [C16:98] Swan Song
+1 [C15:170] Vandalblast
+1 [CMR:661] Blasphemous Act
+1 [CM2:96] Faithless Looting
+1 [F12:12] Gitaxian Probe
+1 [STA:106] Mizzix's Mastery
+1 [UMA:66] Mystic Retrieval
+1 [SLD:30] Serum Visions
+1 [PRW2:B10] Island
+1 [C18:207] Izzet Signet
+1 [UMA:50] Dig Through Time
+1 [STX:295] Archmage Emeritus
+1 [C20:225] Niv-Mizzet, the Firemind
+1 [CMR:211] Wheel of Misfortune
+1 [SLD:175] Counterspell
+1 [CMR:668] Jeska's Will
+1 [ME1:31] Arcane Denial
+1 [WC03:dh70] Careful Study
+1 [PRM:43578] Force of Will
+1 [TD2:8] Silver Myr
+1 [MB1:1555] Burnished Hart
+1 [STX:115] Storm-Kiln Artist
+1 [PGRN:207s] Thousand-Year Storm
+1 [TSR:353] Young Pyromancer
+1 [ZNR:264] Riverglide Pathway
+1 [STX:360] Frostboil Snarl
+1 [MH1:238] Fiery Islet
+1 [CN2:162] Guttersnipe
+1 [C19:215] Izzet Locket
+1 [CMR:507] Island
+1 [MH2:138] Ragavan, Nimble Pilferer
+1 [USG:104] Tolarian Winds
+1 [CM2:190] Fire Diamond
+1 [ORI:51] Day's Undoing
+1 [C21:176] Mana Geyser
+1 [PRIX:180p] The Immortal Sun
+1 [RAV:294] Island
+SB: 1 [GRN:192] Niv-Mizzet, Parun
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([MB1:1555],[C15:263],[TD2:8])([SLD:589],[DRK:102],[CM2:190],[C19:215],[C18:207],[CMR:695],[V09:10],[C21:269],[CMR:703],[AFC:222],[PRIX:180p])([STX:295],[C19:24],[GRN:97],[USG:76],[CN2:162],[MB1:415],[C20:225],[MH2:138],[STX:115],[ELD:367],[TSR:353])([MB1:340],[ME1:42],[TSP:70],[PRM:47975],[PGRN:207s])([ME1:31],[STA:76],[SLD:175],[MM3:35],[C20:50],[UMA:50],[C20:35],[PRM:43578],[MM3:171],[CMR:80],[PWAR:62p],[DTK:65],[DOM:60],[C17:90],[C14:120],[C15:102],[C17:91],[KTK:56],[C16:98],[USG:104])([EXP:32],[CMD:269],[C20:266],[C20:267],[CON:142],[MH1:238],[MH1:239],[STX:360],[RAV:293],[RAV:293],[RAV:293],[RAV:293],[PRW2:B10],[CMR:507],[C14:304],[RAV:299],[RAV:299],[RAV:299],[TMP:322],[CMR:710],[C20:302],[ZNR:264],[MH2:254],[C20:310],[C14:312],[GRN:257],[ZNE:28],[ISD:248],[PM20:253s],[CMR:358],[VMA:324],[RAV:294])([SLD:508])([CMR:661],[WC03:dh70],[ORI:51],[CM2:96],[F12:12],[CMR:668],[C21:176],[STA:106],[UMA:66],[P08:6],[MB1:460],[SLD:30],[C15:170],[VMA:192],[CMR:211],[BRB:99])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([GRN:192])
